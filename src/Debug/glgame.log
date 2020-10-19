@@ -1,0 +1,41 @@
+﻿Build started 10/12/2020 12:45:00 PM.
+     1>Project "C:\PROJEKTY\gra na zaliczenie\Kaczorowski_Piotr\src\glgame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gl.cpp glgame.cpp 3rd\loader_ase.cpp
+         loader_ase.cpp
+         glgame.cpp
+         gl.cpp
+     1>c:\projekty\gra na zaliczenie\kaczorowski_piotr\src\gl.cpp(632): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\projekty\gra na zaliczenie\kaczorowski_piotr\src\gl.cpp(678): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\PROJEKTY\gra na zaliczenie\Kaczorowski_Piotr\src\Debug\glgame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\PROJEKTY\gra na zaliczenie\Kaczorowski_Piotr\src\Debug\glgame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\PROJEKTY\gra na zaliczenie\Kaczorowski_Piotr\src\Debug\glgame.lib" /MACHINE:X86 /SAFESEH Debug\gl.obj
+         Debug\glgame.obj
+         Debug\loader_ase.obj
+     1>gl.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+     1>C:\PROJEKTY\gra na zaliczenie\Kaczorowski_Piotr\src\Debug\glgame.exe : fatal error LNK1281: Unable to generate SAFESEH image.
+     1>Done Building Project "C:\PROJEKTY\gra na zaliczenie\Kaczorowski_Piotr\src\glgame.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.55

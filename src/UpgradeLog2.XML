@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="glgame">
+</Property><Property Name="Solution File" Value="H:\Kaczorowski_Piotr\src\glgame.sln">
+</Property><Property Name="Date" Value="24 stycznia 2011">
+</Property><Property Name="Time" Value="09:36">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="glgame" Source="glgame.vcproj" Description="Converting project file 'H:\Kaczorowski_Piotr\src\glgame.vcproj'.">
+</Event><Event ErrorLevel="1" Project="glgame" Source="glgame.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="glgame" Source="glgame.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="glgame" Source="glgame.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="glgame" Source="glgame.vcproj" Description="Done converting to new project file 'H:\Kaczorowski_Piotr\src\glgame.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="glgame" Source="glgame.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="glgame.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="glgame.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,2 @@
+cd "bin/"
+glgame.exe

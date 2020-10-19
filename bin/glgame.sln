@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glgame", "..\glgame.vcproj", "{CEFCAD45-78EA-4439-BC69-845B6A329666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFCAD45-78EA-4439-BC69-845B6A329666}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CEFCAD45-78EA-4439-BC69-845B6A329666}.Debug|Win32.Build.0 = Debug|Win32
+		{CEFCAD45-78EA-4439-BC69-845B6A329666}.Release|Win32.ActiveCfg = Release|Win32
+		{CEFCAD45-78EA-4439-BC69-845B6A329666}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

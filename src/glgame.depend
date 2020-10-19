@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1506336242 source:c:\projekty\gra na zaliczenie\kaczorowski_piotr\src\3rd\loader_ase.cpp
+	"loader_ase.h"
+	<stdlib.h>
+
+1224779928 c:\projekty\gra na zaliczenie\kaczorowski_piotr\src\3rd\loader_ase.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<map>
+
